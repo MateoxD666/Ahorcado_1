@@ -14,11 +14,12 @@ Este proyecto tiene como objetivo implementar el clásico juego del **Ahorcado**
 
 
 Diagramas de flujo desarrollados cargados en el repositorio.
-![image](https://github.com/user-attachments/assets/45f8cfc9-38e1-4b06-9bf4-11f835069f1a)
 
 ![image](https://github.com/user-attachments/assets/758171f4-60d7-45bf-a554-9ff77e38751a)
 
 ![image](https://github.com/user-attachments/assets/75c62df5-c2e2-49a3-bc86-3a226219d867)
+
+![image](https://github.com/user-attachments/assets/45f8cfc9-38e1-4b06-9bf4-11f835069f1a)
 
 
 
