@@ -11,6 +11,10 @@ Este proyecto tiene como objetivo implementar el clásico juego del **Ahorcado**
 # 📅 Fecha
 29 de Junio de 2025
 
+
+![image](https://github.com/user-attachments/assets/45f8cfc9-38e1-4b06-9bf4-11f835069f1a)
+
+
 # 🚀 Funcionalidades Principales
 
 - Selección aleatoria de palabras.
